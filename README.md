@@ -1,6 +1,12 @@
 <h1 align="center">I'am Shadow Tak</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowtak&label=Profile%20views&color=0e75b6&style=flat" alt="shadowtak" /> </p>
 
+<p align="center">
+  <a href"https://github.com/shadowtak">
+     <img src="profile_image.png">
+  </a>
+
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/šhàðôw'ŵ ťáķ'ĸ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="šhàðôw'ŵ ťáķ'ĸ" height="30" width="40" /></a>
