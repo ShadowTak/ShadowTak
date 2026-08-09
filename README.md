@@ -1,24 +1,198 @@
-<h1 align="center">I'am Shadow Tak</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowtak&label=Profile%20views&color=0e75b6&style=flat" alt="shadowtak" /> </p>
+<div align="center">
 
-<p href="https://discord.gg/shadowtak" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/902218268113248267>
-</p>
+# `root@shadowtak:~$ whoami`
 
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/šhàðôw'ŵ ťáķ'ĸ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="šhàðôw'ŵ ťáķ'ĸ" height="30" width="40" /></a>
-<a href="https://instagram.com/šhàðôw'ŵ ťáķ'ĸ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="šhàðôw'ŵ ťáķ'ĸ" height="30" width="40" /></a>
-<a href="https://discord.gg/shadowtak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shadowtak" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=I%27m+Shadow+Tak;Cyber+%7C+Developer+%7C+Security+Enthusiast;Building+things+that+shouldn%27t+exist+%3A%29;Code.+Break.+Fix.+Repeat." alt="Typing SVG" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowtak&show_icons=true&locale=en&layout=compact" alt="shadowtak" /></p>
+<img src="https://komarev.com/ghpvc/?username=shadowtak&label=SYSTEM%20ACCESS&color=00ff9c&style=for-the-badge" alt="Profile Views"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowtak&show_icons=true&locale=en" alt="shadowtak" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowtak&" alt="shadowtak" /></p>
+---
 
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    SHADOW TAK // ONLINE                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  STATUS    : ONLINE                                          ║
+║  ROLE      : DEVELOPER / SECURITY ENTHUSIAST                ║
+║  LOCATION  : THAILAND 🇹🇭                                    ║
+║  MODE      : BUILDING                                       ║
+║  COFFEE    : ████████████████████ 100%                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## `> about_me`
+
+```yaml
+name: Shadow Tak
+alias: ShadowTak
+focus:
+  - Software Development
+  - Cyber Security
+  - Automation
+  - Backend Development
+  - APIs
+  - Linux
+  - Reverse Engineering
+
+mindset:
+  - "Build it."
+  - "Break it."
+  - "Understand it."
+  - "Make it better."
+
+current_status: "████████████████████ 100%"
+```
+
+---
+
+## `> connect --all`
+
+<div align="center">
+
+<a href="https://discord.gg/shadowtak">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff9c" />
+</a>
+&nbsp;
+<a href="https://fb.com/šhàðôw">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff9c" />
+</a>
+&nbsp;
+<a href="https://instagram.com/šhàðôw">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff9c" />
+</a>
+
+<br><br>
+
+<img src="https://lanyard.cnrad.dev/api/902218268113248267?theme=dark&bg=000000&borderRadius=0px&idleMessage=Shadow%20Tak%20is%20offline" />
+
+</div>
+
+---
+
+## `> tech_stack --list`
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,java,ruby,html,css&theme=dark" />
+
+### `BACKEND / DATABASE`
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,express&theme=dark" />
+
+### `DEVOPS / SYSTEM`
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx&theme=dark" />
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=postman,vscode,photoshop&theme=dark" />
+
+</div>
+
+---
+
+## `> terminal --stats`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shadowtak&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowtak&bg_color=000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `> contribution --visualize`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## `> github --terminal`
+
+```bash
+$ git status
+
+On branch main
+
+Your branch is up to date.
+
+Changes not staged for commit:
+  modified:   reality
+
+Untracked files:
+  chaos/
+  ideas/
+  unfinished-projects/
+
+nothing added to commit
+```
+
+---
+
+## `> projects --featured`
+
+<div align="center">
+
+|        Project       | Description                         |
+| :------------------: | :---------------------------------- |
+| 🕶️ **Shadow Tools** | Cyber / automation utilities        |
+|  ⚡ **API Projects**  | Backend services & API integrations |
+|   🤖 **Automation**  | Bots, scripts & workflow automation |
+| 🔐 **Security Labs** | Security research & CTF experiments |
+
+</div>
+
+---
+
+## `> quote`
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│   "The quieter you become, the more you are able to hear." │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### `// SYSTEM MESSAGE`
+
+```text
+[✓] Connection established
+[✓] Identity verified
+[✓] Developer mode enabled
+[✓] Cyber mode enabled
+
+> Welcome to ShadowTak's GitHub.
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=100&section=footer"/>
+
+</div>
