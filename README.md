@@ -18,9 +18,9 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                    SHADOW TAK // ONLINE                     ║
 ╠══════════════════════════════════════════════════════════════╣
-║  STATUS    : ONLINE                                          ║
+║  STATUS    : ONLINE                                         ║
 ║  ROLE      : DEVELOPER / SECURITY ENTHUSIAST                ║
-║  LOCATION  : THAILAND 🇹🇭                                    ║
+║  LOCATION  : THAILAND                                       ║
 ║  MODE      : BUILDING                                       ║
 ║  COFFEE    : ████████████████████ 100%                      ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -28,11 +28,14 @@
 
 </div>
 
+---
+
 ## `> about_me`
 
 ```yaml
 name: Shadow Tak
 alias: ShadowTak
+
 focus:
   - Software Development
   - Cyber Security
@@ -48,7 +51,7 @@ mindset:
   - "Understand it."
   - "Make it better."
 
-current_status: "████████████████████ 100%"
+status: ONLINE
 ```
 
 ---
@@ -57,21 +60,15 @@ current_status: "████████████████████ 10
 
 <div align="center">
 
-<a href="https://discord.gg/shadowtak">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff9c" />
-</a>
-&nbsp;
-<a href="https://fb.com/šhàðôw">
+<a href="https://facebook.com/ShadowTak02">
   <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff9c" />
 </a>
-&nbsp;
-<a href="https://instagram.com/šhàðôw">
+
+ 
+
+<a href="https://instagram.com/shadowtak">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff9c" />
 </a>
-
-<br><br>
-
-<img src="https://lanyard.cnrad.dev/api/902218268113248267?theme=dark&bg=000000&borderRadius=0px&idleMessage=Shadow%20Tak%20is%20offline" />
 
 </div>
 
@@ -127,7 +124,7 @@ current_status: "████████████████████ 10
 
 ## `> github --terminal`
 
-```bash
+```text
 $ git status
 
 On branch main
@@ -135,9 +132,11 @@ On branch main
 Your branch is up to date.
 
 Changes not staged for commit:
+
   modified:   reality
 
 Untracked files:
+
   chaos/
   ideas/
   unfinished-projects/
