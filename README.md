@@ -66,7 +66,7 @@ status: ONLINE
 
  
 
-<a href="https://instagram.com/shadowtak">
+<a href="https://instagram.com/_shadowtak02_">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff9c" />
 </a>
 
