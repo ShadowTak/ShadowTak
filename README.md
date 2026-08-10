@@ -99,12 +99,7 @@ status: ONLINE
 ---
 
 ## `> terminal --stats`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shadowtak&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowtak&bg_color=000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
 
