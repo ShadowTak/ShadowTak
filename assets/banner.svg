@@ -1,47 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ffd6f0"/>
-      <stop offset="0.5" stop-color="#e3d4ff"/>
-      <stop offset="1" stop-color="#c9f0ff"/>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1035"/>
+      <stop offset="0.6" stop-color="#4a2a6e"/>
+      <stop offset="1" stop-color="#b0578f"/>
     </linearGradient>
-    <radialGradient id="blush" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#ff8fb8" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#ff8fb8" stop-opacity="0"/>
+    <radialGradient id="moon" cx="0.4" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#fff8e6"/>
+      <stop offset="1" stop-color="#ffd6e8"/>
     </radialGradient>
+    <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd1e6"/>
+      <stop offset="1" stop-color="#ff7eb6"/>
+    </linearGradient>
   </defs>
-  <rect width="900" height="260" rx="28" fill="url(#sky)"/>
-  <!-- sparkles -->
-  <g fill="#ffffff" opacity="0.9">
-    <path d="M120 60 l6 16 16 6 -16 6 -6 16 -6 -16 -16 -6 16 -6z"/>
-    <path d="M760 50 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5z"/>
-    <path d="M840 190 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
-    <circle cx="200" cy="200" r="4"/><circle cx="700" cy="210" r="5"/><circle cx="60" cy="130" r="3"/>
+  <rect width="900" height="260" rx="28" fill="url(#night)"/>
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="90" cy="40" r="1.8"/><circle cx="210" cy="28" r="1.4"/><circle cx="330" cy="60" r="1.6"/>
+    <circle cx="560" cy="34" r="1.8"/><circle cx="650" cy="72" r="1.4"/><circle cx="820" cy="30" r="2"/>
+    <circle cx="150" cy="110" r="1.2"/><circle cx="760" cy="120" r="1.5"/><circle cx="40" cy="170" r="1.4"/>
   </g>
-  <!-- kawaii character -->
-  <g transform="translate(450 150)">
-    <!-- ears -->
-    <ellipse cx="-70" cy="-95" rx="18" ry="38" fill="#ffffff" stroke="#c9a6ff" stroke-width="4" transform="rotate(-18 -70 -95)"/>
-    <ellipse cx="70" cy="-95" rx="18" ry="38" fill="#ffffff" stroke="#c9a6ff" stroke-width="4" transform="rotate(18 70 -95)"/>
-    <ellipse cx="-70" cy="-92" rx="8" ry="22" fill="#ffb3d9" transform="rotate(-18 -70 -92)"/>
-    <ellipse cx="70" cy="-92" rx="8" ry="22" fill="#ffb3d9" transform="rotate(18 70 -92)"/>
-    <!-- face -->
-    <circle r="92" fill="#ffffff" stroke="#c9a6ff" stroke-width="5"/>
-    <!-- eyes -->
-    <ellipse cx="-34" cy="-6" rx="11" ry="15" fill="#3d2c5e"/>
-    <ellipse cx="34" cy="-6" rx="11" ry="15" fill="#3d2c5e"/>
-    <circle cx="-30" cy="-12" r="4.5" fill="#ffffff"/>
-    <circle cx="38" cy="-12" r="4.5" fill="#ffffff"/>
-    <circle cx="-38" cy="0" r="2" fill="#ffffff"/>
-    <circle cx="30" cy="0" r="2" fill="#ffffff"/>
-    <!-- blush -->
-    <ellipse cx="-56" cy="18" rx="16" ry="10" fill="url(#blush)"/>
-    <ellipse cx="56" cy="18" rx="16" ry="10" fill="url(#blush)"/>
-    <!-- mouth -->
-    <path d="M-10 26 Q0 38 10 26" fill="none" stroke="#3d2c5e" stroke-width="4" stroke-linecap="round"/>
-    <!-- little heart -->
-    <path d="M0 -58 c-6 -10 -20 -4 -14 8 l14 14 l14 -14 c6 -12 -8 -18 -14 -8z" fill="#ff7eb6" transform="translate(0 -6) scale(0.8)"/>
+  <!-- moon -->
+  <circle cx="770" cy="78" r="42" fill="url(#moon)"/>
+  <circle cx="786" cy="66" r="38" fill="#4a2a6e" opacity="0.25"/>
+  <!-- hills -->
+  <path d="M0 210 Q180 170 360 205 T720 200 T900 190 L900 260 L0 260Z" fill="#2a1545"/>
+  <path d="M0 232 Q220 200 460 228 T900 222 L900 260 L0 260Z" fill="#1b0f30"/>
+  <!-- tree trunk and blossoms -->
+  <g>
+    <path d="M120 230 Q128 190 140 160 Q150 140 158 120" fill="none" stroke="#3d2350" stroke-width="9" stroke-linecap="round"/>
+    <path d="M150 140 Q175 128 190 116" fill="none" stroke="#3d2350" stroke-width="6" stroke-linecap="round"/>
+    <g fill="#ffb3d9" opacity="0.95">
+      <circle cx="158" cy="110" r="22"/><circle cx="184" cy="104" r="20"/>
+      <circle cx="132" cy="128" r="18"/><circle cx="196" cy="118" r="16"/><circle cx="170" cy="92" r="16"/>
+    </g>
+  </g>
+  <!-- falling petals -->
+  <g fill="url(#petal)" opacity="0.9">
+    <ellipse cx="300" cy="90" rx="7" ry="4" transform="rotate(30 300 90)"/>
+    <ellipse cx="380" cy="140" rx="6" ry="3.5" transform="rotate(-20 380 140)"/>
+    <ellipse cx="520" cy="70" rx="7" ry="4" transform="rotate(50 520 70)"/>
+    <ellipse cx="610" cy="150" rx="6" ry="3.5" transform="rotate(10 610 150)"/>
+    <ellipse cx="260" cy="180" rx="6" ry="3.5" transform="rotate(-40 260 180)"/>
+    <ellipse cx="700" cy="180" rx="7" ry="4" transform="rotate(25 700 180)"/>
+    <ellipse cx="450" cy="120" rx="5" ry="3" transform="rotate(70 450 120)"/>
   </g>
   <!-- title -->
-  <text x="450" y="238" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#6b4fa0">✿ ShadowTak ✿</text>
+  <text x="450" y="112" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="4" fill="#ffffff">SHADOWTAK</text>
+  <text x="450" y="146" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="6" fill="#ffd1e6">~ DEVELOPER · SECURITY · DREAMS ~</text>
 </svg>

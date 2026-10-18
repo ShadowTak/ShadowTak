@@ -70,7 +70,7 @@ Telegram bots
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowTak&theme=radical&hide_border=true" alt="activity graph" />
+<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowTak&theme=radical&hide_border=true" />
 
 </div>
 
