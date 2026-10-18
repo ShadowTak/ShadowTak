@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=22&duration=3000&pause=900&color=FF7EB6&center=true&vCenter=true&width=620&lines=✿+Developer+✿+Security+Enthusiast;Making+things+that+see+the+world+♡;Code.+Break.+Learn.+Repeat.+♪" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF7EB6&center=true&vCenter=true&width=620&lines=Developer+~+Security+Enthusiast;Making+things+that+see+the+world;Code.+Break.+Learn.+Repeat." alt="typing" />
 
 </div>
 
