@@ -156,6 +156,47 @@ nothing added to commit
 
 ---
 
+## `> flagship --run safety-vision`
+
+<div align="center">
+
+<a href="https://github.com/ShadowTak/safety-vision">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowTak&repo=safety-vision&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&border_color=00ff9c&hide_border=false" alt="safety-vision" />
+</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ShadowTak/safety-vision/main/docs/img/demo-card.png" width="420" alt="Safety Vision demo" />
+
+<br><br>
+
+**ตรวจจับไฟ · คนล้ม · อารมณ์ใบหน้า แบบเรียลไทม์** ทำงานบน Mac (Apple Silicon) ผ่านเว็บเบราว์เซอร์ พร้อมแจ้งเตือน Telegram
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3.12-00ff9c?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/YOLO-Ultralytics-00ff9c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-WebSocket-00ff9c?style=for-the-badge&logo=fastapi&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-MPS-00ff9c?style=for-the-badge&logo=pytorch&logoColor=black" />
+
+</div>
+
+---
+
+## `> stats --top-languages`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowTak&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff9c&text_color=ffffff&icon_color=00ff9c&border_color=00ff9c&hide_border=false&langs_count=8" alt="Top languages" />
+
+&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShadowTak&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&border_color=00ff9c&hide_border=false" alt="GitHub stats" />
+
+</div>
+
+---
+
 ## `> quote`
 
 <div align="center">
