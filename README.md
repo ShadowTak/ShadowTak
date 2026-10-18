@@ -12,37 +12,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### ✨ Focus
-Software development
-Cyber security
-Automation
-Backend & APIs
-
-</td>
-<td align="center" width="33%">
-
-### 🌸 Currently
-Computer vision
-Real-time detection
-Telegram bots
-
-</td>
-<td align="center" width="33%">
-
-### 🎀 Mindset
-*Build it.*
-*Break it.*
-*Understand it.*
-*Make it better.*
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <br>
